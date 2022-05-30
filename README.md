@@ -1,5 +1,5 @@
 # Proyecto 3 - Ataques a modelos de Deep Learning
- Sergio Marchena
+ Sergio Marchena - UVG 2022 - Security Data Science
  
  ## Parte 1 - Ataque de extracción 
  
