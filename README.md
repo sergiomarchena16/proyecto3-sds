@@ -5,11 +5,9 @@
  
 ![Alt text](1.1.png?raw=true "Title: Ataques CopycatCNN")
 
-Como se observa en la grafica, en los atques probabilisticos, el ataque CopycatCNN tuvo una mejor accuracy que el KnockoffNets. Ahora bien, en los ataques no probabilisticos (argmax), los resultados son muy similares. Pero KnockoffNets es un poco mejor.
-
 ![Alt text](1.2.png?raw=true "Title: Ataques KnockoffNets")
 
-Se puede observar que en los dos casos de ataques, el accuracy del modelo baja considerablemente con la capa de proteccion. En el caso de CopycatCNN baja de 0.9 aprox hasta 0.8 aprox. Y en KnockoffNets, baja de mas de 0.9 aprox hasta 0.75 aprox. Esto es un comportamiento totalmente esperado. 
+Como se observa en la grafica, en los atques probabilisticos, el ataque CopycatCNN tuvo una mejor accuracy que el KnockoffNets. Ahora bien, en los ataques no probabilisticos (argmax), los resultados son muy similares. Pero KnockoffNets es un poco mejor. Tambien se puede observar que en los dos casos de ataques, el accuracy del modelo baja considerablemente con la capa de proteccion. En el caso de CopycatCNN baja de 0.9 aprox hasta 0.8 aprox. Y en KnockoffNets, baja de mas de 0.9 aprox hasta 0.75 aprox. Esto es un comportamiento totalmente esperado. 
 
  ## Parte 2 - Ataque de evasión 
  
